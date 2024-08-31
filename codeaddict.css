@@ -3,3 +3,30 @@
     display: flex;
     gap: 10px;
 }
+<nav>
+<img src="pic/logo.svg" id="logo" alt="logo" />
+<ul id="windowTabs">
+    <li>
+        <a href="home.html">home</a>
+    </li>
+    <li>
+        <a href="about.html">about</a>
+    </li>
+    <li>
+        <a href="progres.html">progres</a>
+    </li>
+    <li>
+        <a href="contact.html">contact</a>
+    </li>
+</ul>
+<ul id="mobileTabs">
+    <li>
+        <a href="home.html">home</a>
+    </li>
+    <li>
+        <a href="about.html">about</a>
+    </li>
+    <li>
+        <a href="progres.html">progres</a>
+    </li>
+    <li>
